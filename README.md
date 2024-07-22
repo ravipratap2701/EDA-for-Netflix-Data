@@ -1,1 +1,7 @@
-# EDA-for-Netflix-Data
+Netflix, a powerhouse in the entertainment industry, dominates global streaming with a vast library of content including both licensed series and its own creations branded as Netflix Originals. As of March 31, 2022, Netflix boasts over 221.6 million subscribers worldwide, with significant user bases in regions like the United States and Canada, Europe, the Middle East, Africa, Latin America, and Asia-Pacific. Notably absent in Mainland China, Syria, North Korea, and Russia, Netflix reaches audiences through web browsers, smart TVs, set-top boxes, tablets, smartphones, and more.
+
+Founded in Scotts Valley, California, Netflix initially revolutionized DVD rentals by mail before pioneering streaming services in 2007. Rapid international expansion followed, with Netflix launching content production in 2013 with its breakout hit, House of Cards. By January 2016, the service operated in 190 countries, solidifying its global footprint.
+
+Ranked among the Fortune 500 and Forbes Global 2000, Netflix stands as a top player in the entertainment sector. Recognized as the eighth-most trusted brand worldwide in 2021, Netflix's stock performance during the 2010s underscored its meteoric rise, delivering impressive returns.
+
+The dataset "netflix_titles.csv" offers a detailed glimpse into Netflix's expansive content library as of 2019, encompassing TV shows and movies. It includes essential information such as titles, types (TV show or movie), directors, casts, release dates, and categorizations like ratings and genres. This dataset provides a valuable perspective on Netflix's profound impact on global media and cultural industries, highlighting its evolution from a DVD rental service to a dominant force in digital entertainment.
